@@ -1,2 +1,2 @@
-# Codesoft-demo
+# Codesoft
 This is my first git repository.
